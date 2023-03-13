@@ -10,4 +10,4 @@ discord bot integrated with openai
 
 ## commands
 
-
+![image](https://user-images.githubusercontent.com/90450035/224649623-daa2fbee-d76c-4fb7-a267-fa8eb398c9f3.png)
